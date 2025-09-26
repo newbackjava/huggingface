@@ -42,14 +42,19 @@ for i, q in enumerate(queries):
 pairs = util.paraphrase_mining_embeddings(emb)  # [(score, i, j), ...] 내림차순
 
 # (선택) 임계값 필터링: 너무 낮은 점수 제거하고 싶다면 주석 해제
-# MIN_SCORE = 0.3
-# pairs = [p for p in pairs if p[0] >= MIN_SCORE]
+MIN_SCORE = 0.3
+pairs = [p for p in pairs if p[0] >= MIN_SCORE]
+##################
+
+
 
 print("\n=== Global Top-10 most similar sentence pairs (paraphrase mining) ===")
 for k, (score, i, j) in enumerate(pairs[:10], 1):
     print(f"{k:2d}. ({i:02d}, {j:02d}) score={score:.4f}")
     print(f"    - {queries[i]}")
     print(f"    - {queries[j]}")
+
+
 
 # C:\Users\Administrator\PycharmProjects\PythonProject\.venv\Scripts\python.exe C:\Users\Administrator\PycharmProjects\PythonProject\huggingface\문장임베딩의미유사도\문장임베딩의미유사도-문장10.py
 # === Cosine similarity matrix (10x10) ===
