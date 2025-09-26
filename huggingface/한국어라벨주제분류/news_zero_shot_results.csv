@@ -1,0 +1,11 @@
+url,title,strategy,predicted_label_top1,score_top1,top_k_labels,top_k_scores,error
+https://www.chosun.com/politics/politics_general/2025/09/26/7KEXY5JRS5DCTJ6J64UZGFQLCM/,"대통령실, 이영호 해양비서관 면직…“청탁·특정인 출입특혜""",trafilatura-print,정치,0.1531,정치|문화|리뷰|국제|경제,0.1531|0.1437|0.1402|0.1370|0.1139,
+https://view.asiae.co.kr/article/2025092608572502066,"트럼프 ""韓 대미투자 3500억 달러는 선불""…의약품에 100% 관세(종합) - 아시아경제",trafilatura,국제,0.1545,국제|문화|리뷰|사설|사회,0.1545|0.1385|0.1347|0.1316|0.1184,
+https://www.chosun.com/politics/politics_general/2025/09/26/7KEXY5JRS5DCTJ6J64UZGFQLCM/,조선일보 - 1등 디지털뉴스,trafilatura-mobile,정치,0.1622,정치|경제|문화|스포츠|국제,0.1622|0.1475|0.1454|0.1255|0.1231,
+https://www.chosun.com/international/international_general/2025/09/26/XMDHEX3SNFCEDHHRI36V2CNUD4/,조선일보 - 1등 디지털뉴스,trafilatura-mobile,정치,0.1622,정치|경제|문화|스포츠|국제,0.1622|0.1475|0.1454|0.1255|0.1231,
+https://www.chosun.com/international/international_general/2025/09/26/J6JZWKT7I5HNNF6Q3RCQCSFORU/,조선일보 - 1등 디지털뉴스,trafilatura-mobile,정치,0.1622,정치|경제|문화|스포츠|국제,0.1622|0.1475|0.1454|0.1255|0.1231,
+https://www.chosun.com/international/china/2025/09/26/JVJD3AXYWVFDDBLO5DJK4LWFZ4/,조선일보 - 1등 디지털뉴스,trafilatura-mobile,정치,0.1622,정치|경제|문화|스포츠|국제,0.1622|0.1475|0.1454|0.1255|0.1231,
+https://www.chosun.com/international/international_general/2025/09/26/UOV45W4IMRCIHMKCECLORHBEIQ/,조선일보 - 1등 디지털뉴스,trafilatura-mobile,정치,0.1622,정치|경제|문화|스포츠|국제,0.1622|0.1475|0.1454|0.1255|0.1231,
+https://www.chosun.com/international/international_general/2025/09/26/JFV75OSBJJFRXOJWPM2HDQEATA/,젤렌스키 “크렘린궁 공습할 수도”…푸틴에 정면 압박,trafilatura-print,경제,0.1485,경제|문화|사설|스포츠|리뷰,0.1485|0.1334|0.1271|0.1247|0.1246,
+https://www.chosun.com/international/international_general/2025/09/26/3V3AG4CFMNGLHHVL55B5EOUPQA/,조선일보 - 1등 디지털뉴스,trafilatura-mobile,정치,0.1622,정치|경제|문화|스포츠|국제,0.1622|0.1475|0.1454|0.1255|0.1231,
+https://www.chosun.com/international/international_general/2025/09/26/XMDHEX3SNFCEDHHRI36V2CNUD4,조선일보 - 1등 디지털뉴스,trafilatura-mobile,정치,0.1622,정치|경제|문화|스포츠|국제,0.1622|0.1475|0.1454|0.1255|0.1231,
